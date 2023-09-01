@@ -4,8 +4,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- counter views -->
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Aurosonic7&color=blueviolet&style=plastic"/>
-<img src="https://img.shields.io/badge/Age-21-blue"/>
+<img src="https://komarev.com/ghpvc/?username=UzielLopez96&color=blueviolet&style=plastic"/>
+<img src="https://img.shields.io/badge/Age-26-blue"/>
 <img src="https://img.shields.io/badge/Lives-Oax%20Mexico-success"/>
 </p>
 <!-- Imagen -->
