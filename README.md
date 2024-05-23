@@ -23,7 +23,7 @@ Profile Views
 <!-- Primer separador ABOUT ME-->
 <h3 align=center>About me</h3>
 <!-- Words green -->
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&duration=4000&pause=1000&color=09F742&center=true&vCenter=true&width=500&height=40&lines=%3E_+Hi%2C+I'm+Christian+%F0%9F%91%8B;%3E_+Software+Engineering+Student+%F0%9F%91%B7;%3E_+Always+Learning+New+Things+%F0%9F%A7%A0;%3E_+Problem+Solver+%E2%9C%85;%3E_+Back-End+Developer+%F0%9F%92%BB;%3E_+Competitive+Programmer+%F0%9F%91%8D;%3E_+Open+Source+Enthusiast+%F0%9F%A7%A9" alt="Typing SVG"/> </a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&duration=4000&pause=1000&color=09F742&center=true&vCenter=true&width=500&height=40&lines=%3E_+Hi%2C+I'm+Uziel+%F0%9F%91%8B;%3E_+Software+Engineering+Student+%F0%9F%91%B7;%3E_+Always+Learning+New+Things+%F0%9F%A7%A0;%3E_+Problem+Solver+%E2%9C%85;%3E_+Back-End+Developer+%F0%9F%92%BB;%3E_+Competitive+Programmer+%F0%9F%91%8D;%3E_+Open+Source+Enthusiast+%F0%9F%A7%A9" alt="Typing SVG"/> </a> </p>
 
 <!--IMAGE-->
 <!--
